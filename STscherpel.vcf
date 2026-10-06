@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Tscherpel;Sascha;;ppa.;M.Sc.
+FN:ppa. Sascha Tscherpel, M.Sc.
+ORG:INGENUM GmbH
+TITLE:Projektleiter
+ADR;TYPE=WORK:;;Industriestraße 17;Bottrop;;46240;Deutschland
+TEL;TYPE=WORK:BITTE-ERGAENZEN
+EMAIL;TYPE=WORK:BITTE-ERGAENZEN
+URL:www.ingenum.de
+END:VCARD
