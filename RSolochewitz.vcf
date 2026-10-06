@@ -1,10 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Solochewitz;Robin;;ppa.;
-FN:ppa. Robin Solochewitz
+N:Solochewitz;Robin;;ppa.;M.Sc.
+FN:ppa. Robin Solochewitz, M.Sc.
 ORG:INGENUM GmbH
-ADR:;;Industriestraße 17;46240 Bottrop;;;
-TEL:+4915251029784
-EMAIL:solochewitz@ingenum.de
+TITLE:Projektleiter
+ADR;TYPE=WORK:;;Industriestraße 17;Bottrop;;46240;Deutschland
+TEL;TYPE=WORK:+4915251029784
+EMAIL;TYPE=WORK:solochewitz@ingenum.de
 URL:www.ingenum.de
 END:VCARD
